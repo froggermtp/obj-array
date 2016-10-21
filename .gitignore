@@ -1,3 +1,9 @@
+# Java
+.settings/*
+bin/*
+.classpath
+.project
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
